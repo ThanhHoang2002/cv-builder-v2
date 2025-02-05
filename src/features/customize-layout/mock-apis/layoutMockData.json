@@ -1,0 +1,82 @@
+{
+  "layoutId": "l-1",
+  "listRow": [
+    {
+      "id": "r-2",
+      "listCols": [
+        {
+          "id": "c-3",
+          "listSections": [
+            {
+              "id": "s-4",
+              "sectionName": "title"
+            }
+          ]
+        },
+        {
+          "id": "c-5",
+          "listSections": [
+            {
+              "id": "s-6",
+              "sectionName": "personal-data"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r-7",
+      "listCols": [
+        {
+          "id": "c-8",
+          "listSections": [
+            {
+              "id": "s-9",
+              "sectionName": "introduction"
+            },
+            {
+              "id": "s-10",
+              "sectionName": "working-experience"
+            },
+            {
+              "id": "s-11",
+              "sectionName": "education"
+            }
+          ],
+          "style": 27
+        },
+        {
+          "id": "c-12",
+          "listSections": [
+            {
+              "id": "s-13",
+              "sectionName": "skills"
+            },
+            {
+              "id": "s-14",
+              "sectionName": "awards"
+            },
+            {
+              "id": "s-15",
+              "sectionName": "projects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r-16",
+      "listCols": [
+        {
+          "id": "c-17",
+          "listSections": [
+            {
+              "id": "s-18",
+              "sectionName": "signature"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
